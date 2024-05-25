@@ -1,0 +1,51 @@
+﻿生成启动时间为 2022/9/11 7:38:25。
+     1>项目“D:\高级语言程序设计\20211111 C语言程序设计第四版\eg09\eg09\eg09.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\eg09.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt eg09.c LXHAPI.c
+         LXHAPI.c
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(45): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 参见“getch”的声明
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(181): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : 参见“getch”的声明
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(196): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(196): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(199): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(199): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(210): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(210): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(212): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(212): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(215): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(215): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(226): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(226): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(228): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(228): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(231): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(231): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(242): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\lxhapi.c(242): warning C4024: “mciSendStringA”: 形参和实参 3 的类型不同
+         eg09.c
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\eg09.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\eg09.c(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>d:\高级语言程序设计\20211111 c语言程序设计第四版\eg09\eg09\eg09.c(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\高级语言程序设计\20211111 C语言程序设计第四版\eg09\Debug\eg09.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\eg09.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\高级语言程序设计\20211111 C语言程序设计第四版\eg09\Debug\eg09.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\高级语言程序设计\20211111 C语言程序设计第四版\eg09\Debug\eg09.lib" /MACHINE:X86 Debug\eg09.obj
+         Debug\LXHAPI.obj
+         eg09.vcxproj -> D:\高级语言程序设计\20211111 C语言程序设计第四版\eg09\Debug\eg09.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"D:\高级语言程序设计\20211111 C语言程序设计第四版\eg09\Debug\eg09.exe.manifest" /manifest Debug\eg09.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\eg09.unsuccessfulbuild”。
+         正在对“Debug\eg09.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\高级语言程序设计\20211111 C语言程序设计第四版\eg09\eg09\eg09.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.58
