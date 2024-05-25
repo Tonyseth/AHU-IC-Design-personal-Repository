@@ -1,6 +1,7 @@
 # AHU-IC-Design-personal-Repository
 
 ## 简介
+![](https://ic.ahu.edu.cn/_upload/site/02/c3/707/logo.png)
 
 这是一个安徽大学集成电路专业学生平时收集资料的仓库
 
