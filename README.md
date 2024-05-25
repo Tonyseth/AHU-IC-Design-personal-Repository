@@ -11,8 +11,9 @@
 
 ### 其他
 
-欢迎提issue，或者直接联系我
+欢迎提issue，或者直接联系我们
 
 E-mail:  tonyluvsky@gmail.com
+
 E-mail:  ahu.lin161@gmail.com
 
