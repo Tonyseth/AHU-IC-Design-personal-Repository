@@ -1,7 +1,7 @@
 # AHU-IC-Design-personal-Repository
 
 ## 简介
-![](https://ic.ahu.edu.cn/_upload/site/02/c3/707/logo.png)
+![73d56050c94e28b023f3926ad3900d4](https://cdn.jsdelivr.net/gh/Tonyseth/my_image_bed@main/img/73d56050c94e28b023f3926ad3900d4.png)
 
 这是一个安徽大学集成电路专业学生平时收集资料的仓库
 
@@ -15,5 +15,4 @@
 
 E-mail:  tonyluvsky@gmail.com
 E-mail:  ahu.lin161@gmail.com
-
 
