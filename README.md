@@ -22,8 +22,9 @@
 请直接pr，看到后我会进行处理的<br>
 若想要一起维护该仓库，可通过邮箱联系我们<br>
 
-ahu.lin161@gmail.com<br>
 tonyluvsky@gmail.com
+ahu.lin161@gmail.com<br>
+
 
 
 ## 写在最后
