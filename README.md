@@ -1,7 +1,9 @@
 # AHU-IC-Design-personal-Repository
 
 ## 简介
-![73d56050c94e28b023f3926ad3900d4](https://cdn.jsdelivr.net/gh/Tonyseth/my_image_bed@main/img/73d56050c94e28b023f3926ad3900d4.png)
+
+<a href ="https://ic.ahu.edu.cn/"><img src="https://cdn.jsdelivr.net/gh/Tonyseth/my_image_bed@main/img/73d56050c94e28b023f3926ad3900d4.png"></a>
+
 
 这是一个安徽大学集成电路专业学习资料的仓库
 
@@ -21,6 +23,9 @@
 #### 如何加入我们？
 请直接pr，看到后我会进行处理的<br>
 若想要一起维护该仓库，可通过邮箱联系我们<br>
+
+tonyluvsky@gmail.com<br>
+ahu.lin161@gmail.com<br>
 
 
 
