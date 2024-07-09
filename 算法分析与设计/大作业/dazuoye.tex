@@ -1,0 +1,177 @@
+\documentclass{article}
+\usepackage{fancyhdr}
+\usepackage{extramarks}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{tikz}
+\usepackage[UTF8, scheme=plain, punct=plain, zihao=false]{ctex}
+\usepackage[shortlabels]{enumitem}
+\usetikzlibrary{automata,positioning}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{float}
+\usepackage{lipsum}
+
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}  % Use Input in the format of Algorithm
+\renewcommand{\algorithmicensure}{\textbf{Output:}} % Use Output in the format of Algorithm
+\newcommand{\True}{\textbf{true}}
+\newcommand{\False}{\textbf{false}}
+\usepackage{graphics}
+\usepackage{epsfig}
+\usepackage{indentfirst}
+
+% 算法跨页
+\makeatletter
+\newenvironment{breakablealgorithm}
+  {\begin{center}
+     \refstepcounter{algorithm}% New algorithm
+     \hrule height.8pt depth0pt \kern2pt% \@fs@pre for \@fs@ruled
+     \renewcommand{\caption}[2][\relax]{% Make a new \caption
+      {\raggedright\textbf{\ALG@name~\thealgorithm} ##2\par}%
+      \ifx \relax##1\relax % #1 is \relax
+         \addcontentsline{loa}{algorithm}{\numberline{\thealgorithm}##2}%
+      \else % #1 is not \relax
+         \addcontentsline{loa}{algorithm}{\numberline{\thealgorithm}##1}%
+      \fi
+      \kern2pt\hrule\kern2pt
+     }
+  }{\kern2pt\hrule\relax
+   \end{center}
+  }
+\makeatother
+
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\linespread{1.1}
+
+\pagestyle{fancy}
+\lhead{\hmwkAuthorName}
+\chead{\hmwkClass\ \hmwkTitle}
+\rhead{\firstxmark}
+\lfoot{\lastxmark}
+\cfoot{\thepage}
+
+\renewcommand\headrulewidth{0.4pt}
+\renewcommand\footrulewidth{0.4pt}
+
+\newcommand{\enterProblemHeader}[1]{
+    \nobreak\extramarks{}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+}
+
+\newcommand{\exitProblemHeader}[1]{
+    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+    \stepcounter{#1}
+    \nobreak\extramarks{Problem \arabic{#1}}{}\nobreak{}
+}
+
+\setcounter{secnumdepth}{0}
+\newcounter{partCounter}
+\newcounter{homeworkProblemCounter}
+\setcounter{homeworkProblemCounter}{1}
+\nobreak\extramarks{Problem \arabic{homeworkProblemCounter}}{}\nobreak{}
+
+\newenvironment{homeworkProblem}[1][-1]{
+    \ifnum#1>0
+        \setcounter{homeworkProblemCounter}{#1}
+    \fi
+    \section{\huge{Problem} \arabic{homeworkProblemCounter}}
+    \setcounter{partCounter}{1}
+    \enterProblemHeader{homeworkProblemCounter}
+}{
+    \exitProblemHeader{homeworkProblemCounter}
+}
+
+% Homework Details
+\newcommand{\hmwkTitle}{第1次作业}
+\newcommand{\hmwkDueDate}{Oct. 29, 2020}
+\newcommand{\hmwkClass}{计算机算法设计与分析}
+\newcommand{\hmwkAuthorName}{张三 202180132...}
+
+\title{
+    \vspace{2in}
+    \textmd{\textbf{\Huge{\hmwkClass}
+    \\ \Large{\hmwkTitle}}}\\
+    \vspace{3in}
+}
+
+\author{\Large{\textbf{张三}}\\\textbf{2020280132.....}}
+\date{}
+
+\renewcommand{\part}[1]{\textbf{\large Part \Alph{partCounter}}\stepcounter{partCounter}\\}
+
+\newcommand{\alg}[1]{\textsc{\bfseries \footnotesize #1}}
+
+% For derivatives
+\newcommand{\deriv}[1]{\frac{\mathrm{d}}{\mathrm{d}x} (#1)}
+
+% For partial derivatives
+\newcommand{\pderiv}[2]{\frac{\partial}{\partial #1} (#2)}
+
+% Integral dx
+\newcommand{\dx}{\mathrm{d}x}
+
+% Alias for the Solution section header
+\newcommand{\solution}{\textbf{\large Solution}}
+
+% Probability commands: Expectation, Variance, Covariance, Bias
+\newcommand{\E}{\mathrm{E}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\Cov}{\mathrm{Cov}}
+\newcommand{\Bias}{\mathrm{Bias}}
+
+\begin{document}
+\alglanguage{pseudocode}
+\maketitle
+
+\pagebreak
+\begin{homeworkProblem}
+\textbf{\large{Assignment Problem4}}
+\\\solution\\
+\begin{breakablealgorithm}
+\begin{algorithmic}[1]
+  \caption{Algorithm}
+    \Require{$A,B$}\Comment{A is ..., B is ...}
+    \Ensure{$[C,D]$}\Comment{C is ..., D is ...}
+    \State Initialize $A=-1,B=-1$;
+    \State \Call{SubFunction}{A,B}
+    \If{A}
+        \State return C;
+    \EndIf
+\Function{SubFunction}{...}
+\Comment{$如果...就...$}
+\EndFunction
+\end{algorithmic}
+\end{breakablealgorithm}
+\subsection{Subproblem Reduced Graph}
+以...为例，查看图...。
+\subsection{Proof of the correctness}
+要证明的循环不变量：
+\begin{itemize}
+    \item Initialization：
+    \item Maintenance：
+    \item Termination:
+\end{itemize}
+
+\证明：
+\begin{itemize}
+    \item Initialization：
+    \item Maintenance：
+    \item Termination:
+\end{itemize}
+
+\subsection{Analysis of Complexity}
+    \textbf{时间复杂度}
+    
+        $O(x)$。
+        
+    \textbf{空间复杂度}
+\end{homeworkProblem}
+
+\end{document}
