@@ -41,3 +41,8 @@ ahu.lin161@gmail.com <br>
 如果你觉得资料对你有帮助的话，别忘记点个 Star ⭐ <br>
 如果有任何疑问、建议，可直接在 issue 里面提及，或者给我们发邮件 <br>
 同时，欢迎加入我们，积极上传资料(直接 PR 即可)<br>
+
+##　star　history
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tonyseth/AHU-IC-Design-personal-Repository&type=Date)](https://star-history.com/#Tonyseth/AHU-IC-Design-personal-Repository&Date)
