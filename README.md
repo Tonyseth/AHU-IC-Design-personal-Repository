@@ -1,5 +1,7 @@
 # AHU-IC-Design-personal-Repository
 
+## 请不要擅自出售本仓库中的任何资料
+
 ## 简介
 
 <a href ="https://ic.ahu.edu.cn/"> <img src="https://cdn.jsdelivr.net/gh/Tonyseth/my_image_bed@main/img/73d56050c94e28b023f3926ad3900d4.png"> </a>
