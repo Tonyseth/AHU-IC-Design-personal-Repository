@@ -1,6 +1,6 @@
 # AHU-IC-Design-personal-Repository
 
-## 请不要擅自出售本仓库中的任何资料
+## 请不要擅自出售本仓库中的任何资料！！！
 
 ## 简介
 
