@@ -8,7 +8,7 @@
 
 
 这是一个分享安徽大学集成电路专业学习资料的仓库
-<img src="https://komarev.com/ghpvc/?username=Tonyseth&style=for-the-badge" />
+
 
 
 ### 为什么要创建这个仓库
