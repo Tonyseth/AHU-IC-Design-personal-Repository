@@ -1,49 +1,51 @@
-# AHU-IC-Design-personal-Repository
+# 🎓 AHU-IC-Design-personal-Repository
 
-## 请不要擅自出售本仓库中的任何资料！！！
-
-## 简介
 
 <a href ="https://ic.ahu.edu.cn/"> <img src="https://cdn.jsdelivr.net/gh/Tonyseth/my_image_bed@main/img/73d56050c94e28b023f3926ad3900d4.png"> </a>
 
+**安徽大学集成电路专业学习资料分享仓库**
 
-这是一个分享安徽大学集成电路专业学习资料的仓库
-
-
-
-### 为什么要创建这个仓库
-
-我们不希望看到本应该公开的学习资料却被到处贩卖，拿来牟利 <br>
-我们不希望看到有人苦苦寻找资料却根本找不到 <br>
-我们希望所有人学习都应该是站在同一起跑线上的公平竞争 <br>
-
-### 您可以对这个仓库做什么
-
-* 随便使用，下载仓库
-* 上传并完善这个仓库(注意: 不接受安大老师的PPT)
-* 修改代码，笔记的错误内容
-* 免费，无条件的分享给其他同学
-
-### 如何加入我们
-
-请直接 pr，看到后我会进行处理的 <br>
-若想要一起维护该仓库，可通过邮箱联系我们 <br>
-
-tonyluvsky@gmail.com <br>
-ahu.lin161@gmail.com <br>
-
-### 友链
-
-<https://www.zhihu.com/people/leo-17-85-70>
+[![GitHub stars](https://cdn.jsdelivr.net/gh/Tonyseth/my_image_bed@main/img/AHU-IC-Design-personal-Repository.svg)](https://github.com/Tonyseth/AHU-IC-Design-personal-Repository)[![GitHub forks](https://img.shields.io/github/forks/Tonyseth/AHU-IC-Design-personal-Repository.svg?style=social&label=Fork)](https://github.com/Tonyseth/AHU-IC-Design-personal-Repository)[![GitHub watchers](https://img.shields.io/github/watchers/Tonyseth/AHU-IC-Design-personal-Repository.svg?style=social&label=Watch)](https://github.com/Tonyseth/AHU-IC-Design-personal-Repository)
 
 
+## ⚠️ 重要提示
+**请不要擅自出售本仓库中的任何资料！！！**
 
-## 写在最后
+## 📚 简介
 
-如果你觉得资料对你有帮助的话，别忘记点个 Star ⭐ <br>
-如果有任何疑问、建议，可直接在 issue 里面提及，或者给我们发邮件 <br>
-同时，欢迎加入我们，积极上传资料(直接 PR 即可)<br>
+这是一个致力于分享安徽大学集成电路专业学习资料的开源仓库。我们的目标是为所有学习者提供一个公平、开放的学习平台。
 
-## Star History
+### 🎯 我们的使命
+
+- 🚫 杜绝学习资料的商业化和非法牟利
+- 🔍 为寻找资料的同学提供便利
+- 🏁 确保所有学习者站在同一起跑线上公平竞争
+
+### 🤝 您可以做什么
+
+- ✅ 自由使用和下载仓库内容
+- 📤 上传并完善仓库（注意：不接受安大老师的PPT）
+- 🖊️ 修正代码和笔记中的错误
+- 🆓 免费、无条件地与其他同学分享
+
+### 🌟 如何加入我们
+
+- 直接提交PR，我们会及时处理
+- 如果您想成为仓库的维护者，请通过以下邮箱联系我们：
+  - 📧 tonyluvsky@gmail.com
+  - 📧 ahu.lin161@gmail.com
+
+### 🔗 友情链接
+
+[知乎：Leo](https://www.zhihu.com/people/leo-17-85-70)
+
+## 🌈 写在最后
+
+- 如果这些资料对您有帮助，别忘了给我们一个 Star ⭐
+- 有任何疑问或建议，欢迎在 Issues 中提出，或直接给我们发邮件
+- 我们热忱欢迎您加入我们，积极上传资料（直接提交PR即可）
+
+
+## 📊 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tonyseth/AHU-IC-Design-personal-Repository&type=Date)](https://star-history.com/#Tonyseth/AHU-IC-Design-personal-Repository&Date)
