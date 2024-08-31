@@ -5,8 +5,8 @@ import csv
 def login_to_ahu_jw(page):
     page.goto("https://jw.ahu.edu.cn/student/login?refer=https://jw.ahu.edu.cn/student/home")
     page.get_by_role("button", name=" 统一身份认证登录").click()
-    page.get_by_placeholder("用户名").fill("WB2224186")
-    page.get_by_placeholder("密码").fill("wtffkuk2atjh889@")
+    page.get_by_placeholder("用户名").fill("替换为你的学号")
+    page.get_by_placeholder("密码").fill("替换为你的密码")
     page.wait_for_load_state("networkidle")
     page.click('.landing_btn_bg')
     page.get_by_role("link", name="我的成绩").click()
@@ -14,8 +14,8 @@ def login_to_ahu_jw(page):
 
 def login_to_ahu_one(page):
     page.goto("https://one.ahu.edu.cn/cas/login?service=https%3A%2F%2Fone.ahu.edu.cn%2Ftp_up%2Fview")
-    page.get_by_placeholder("用户名").fill("WB2224186")
-    page.get_by_placeholder("密码").fill("wtffkuk2atjh889@")
+    page.get_by_placeholder("用户名").fill("替换你的学号")
+    page.get_by_placeholder("密码").fill("替换为你的密码")
     page.get_by_placeholder("密码").press("Enter")
     #page.get_by_role("link", name="进入校园综合服务门户").click()
     
