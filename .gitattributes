@@ -1,5 +1,6 @@
 # 将所有PDF文件标记为文档
 *.pdf linguist-documentation
+*.html linguist-language=python
 
 # 确保其他主要使用的语言被正确检测
 # 替换 language-name 为您仓库中实际使用的主要编程语言，比如 python, java, c++ 等
