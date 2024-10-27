@@ -8,6 +8,10 @@
 [![GitHub stars](https://cdn.jsdelivr.net/gh/Tonyseth/my_image_bed@main/img/AHU-IC-Design-personal-Repository.svg)](https://github.com/Tonyseth/AHU-IC-Design-personal-Repository)[![GitHub forks](https://img.shields.io/github/forks/Tonyseth/AHU-IC-Design-personal-Repository.svg?style=social&label=Fork)](https://github.com/Tonyseth/AHU-IC-Design-personal-Repository)[![GitHub watchers](https://img.shields.io/github/watchers/Tonyseth/AHU-IC-Design-personal-Repository.svg?style=social&label=Watch)](https://github.com/Tonyseth/AHU-IC-Design-personal-Repository)
 
 
+**如果你不会更改网络环境来访问GitHub，可以使用以下的网址（已添加反向代理）访问该仓库，如失效请联系我**
+[地址一](https://github.site/Tonyseth/AHU-IC-Design-personal-Repository)
+[地址二](https://github.store/Tonyseth/AHU-IC-Design-personal-Repository)
+
 ## ⚠️ 重要提示
 **请不要擅自出售本仓库中的任何资料！！！**
 
