@@ -9,7 +9,7 @@
 
 
 **如果你不会更改网络环境来访问GitHub，可以使用下面的百度网盘链接来下载仓库内的资料，如失效请联系我**
-[百度云网盘链接](链接：https://pan.baidu.com/s/1A_tOhAKigbocUnWUHrvf4Q?pwd=0vk6 )
+[百度云网盘链接](https://pan.baidu.com/s/1A_tOhAKigbocUnWUHrvf4Q?pwd=0vk6)
 
 ## ⚠️ 重要提示
 **请不要擅自出售本仓库中的任何资料！！！**
