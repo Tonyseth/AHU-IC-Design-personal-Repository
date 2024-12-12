@@ -11,6 +11,7 @@
 **如果你不会更改网络环境来访问GitHub，可以使用下面的百度网盘链接来下载仓库内的资料，如失效请联系我**
 
 [百度云网盘链接](https://pan.baidu.com/s/1W46wnl8NmL5F7cEpyDFWSg?pwd=7e4v)
+[四六级真题](https://pan.baidu.com/s/1xu5NNtCxt59oPnDIkjvq1w?pwd=6sg2)
 
 ## ⚠️ 重要提示
 **请不要擅自出售本仓库中的任何资料！！！**
